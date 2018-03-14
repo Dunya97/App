@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423557919890",
+    "firebase_url": "https://projdeprog1.firebaseio.com",
+    "project_id": "projdeprog1",
+    "storage_bucket": "projdeprog1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423557919890:android:6acee20492f2dda5",
+        "android_client_info": {
+          "package_name": "maindish.com.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423557919890-p2gvhvnr1bjihc1dbljkhnuonr54lo6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maindish.com.app1",
+            "certificate_hash": "34e7403e25e2d1e67d449df2048f4cf1a2fcdf89"
+          }
+        },
+        {
+          "client_id": "423557919890-lda2jcanrr5hj0504d8d77f5eivpk1d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EMtGEzwHmbcXDF2nFLUkJMvr4UqBCAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423557919890-lda2jcanrr5hj0504d8d77f5eivpk1d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

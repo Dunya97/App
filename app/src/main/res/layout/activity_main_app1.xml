@@ -14,14 +14,14 @@
                 android:orientation="vertical">
 
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Dale mamasita con su tacata"
-                android:layout_gravity="center_horizontal"
-                android:textSize="25sp"
-                android:layout_margin="25dp"
-                android:id="@+id/titol"/>
+                <TextView
+                    android:id="@+id/titol"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="25dp"
+                    android:text="Main(dish)"
+                    android:textSize="25sp" />
 
             <EditText
                 android:layout_width="300dp"

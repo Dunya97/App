@@ -1,11 +1,9 @@
-package guerrero.com.app1;
+package maindish.com.projprog;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-/**
- * Created by Guillem on 27/12/2017.
- */
+
 
 public class MainFeed extends Activity {
     @Override
